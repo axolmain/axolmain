@@ -67,6 +67,7 @@ August 2021 - Current
 
 <details>
 <summary>More Detail?</summary>
+
 Singen, Germany → Connecticut, USA after 1.5 months
 
 Connecticut, USA → Ascot, United Kingdom after 7.5 years
