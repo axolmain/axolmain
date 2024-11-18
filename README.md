@@ -84,3 +84,6 @@ Berlin, Germany → Idaho, USA after 6 years
 
 ### Sebastian won second place at his school's Hackathon
 (they say second place is the first something... i don't remember what)
+
+
+*readme inspo goes to [aj averett](https://github.com/ajaverett/ajaverett)
