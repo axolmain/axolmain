@@ -1,89 +1,37 @@
-# Sebastian Dunn's Resume
+# Hi, I'm Sebastian
 
-### Contact Information
-- [sebastiancdunn@gmail.com](mailto:sebastiancdunn@gmail.com)
-- [LinkedIn](https://www.https://www.linkedin.com/in/sebastian-dunn/)
+Software developer at [Cadwell Industries](https://www.cadwell.com/), working on platform-level software in the medical device space. Mostly .NET, Azure, and distributed systems, with a soft spot for parsers and observability tooling.
+
+[![Email](https://img.shields.io/badge/sebastiancdunn%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sebastiancdunn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-dunn/)
+![Location](https://img.shields.io/badge/American_Fork%2C_UT-remote-555)
+![Citizenship](https://img.shields.io/badge/🇩🇪_🇺🇸-EU_%2B_US_work_authorized-555)
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,react,ts,py,docker,prometheus,grafana&perline=10" alt="C#, .NET, PostgreSQL, Azure, React, TypeScript, Python, Docker, Prometheus, Grafana" />
+
+## Problems I've worked on
+
+- Keeping edge devices working through hospital networks: durable local queues, replay on reconnect, certificate renewal without a human.
+- Zero-touch provisioning for devices nobody can remote into.
+- Negotiating a workable path with IT and security when the answer to API access is no.
+- Keeping patient data out of logs, traces, and URLs, enforced at build time.
+- Designing cloud compute and storage to satisfy HIPAA now and GDPR upon relevant deployment: encryption, immutable audit trails, network isolation, data residency.
+- Running a two-node Proxmox cluster behind OPNsense at home, because I like sleepless nights and doing what feels like an unpaid second job.
+
+## Tools I reach for
+
+- **Every day:** C# / .NET, ASP.NET Core, EF Core, PostgreSQL, Azure (IoT Hub, Container Apps, Service Bus, Key Vault), OpenTelemetry
+- **Often:** React, TypeScript, Python, Docker, Prometheus and Grafana
 
 ## Education
-**Brigham Young University - Idaho**  
-*B.Sc. Computer Science*  
-Major GPA: 3.9 / 4.0
-Sept 2021 - Dec 2024
 
-**Leadership and Awards**:  
-- Data Science Society Project Manager
+**Brigham Young University – Idaho**, 2021 – 2024
 
-## Experience
+B.S. Computer Science, minor in Data Science. GPA 3.93.
 
-### [Boxiecat](https://boxiecat.com/)
-**Data Science Intern**  
-Rexburg, ID 
-April 2024 - Current
-
-### [Cadwell Inc.](https://www.cadwell.com/)
-**Software Engineer Intern**  
-Kennewick, Washington 
-May 2023 - August 2024
-
-### [English Department - Brigham Young University - Idaho](https://www.byui.edu/english/)
-**Teacher's Assisstant**  
-Rexburg, Idaho
-Sept 2023 - July 2023
-
-### [Computer Science Department - Brigham Young University - Idaho](https://www.byui.edu/computer-science-engineering/)
-**Volunteer Tutor & Teacher's Assisstant**  
-Rexburg, Idaho
-January 2022 - December 2022
-
-### Freelance/Contract
-**Software Solutions Consultant**  
-Rexburg, Idaho
-August 2021 - Current
-
-## Skills
-
-**Programming Languages**
-- **Python**: Pandas, PySpark, Jupyter, Polars, bs4, Playwright, Selenium, lxml  
-- **C#**: WPF, DevExpress, Seq, .NET Framework/Core, Azure SDKs, Blazor, Maui, ASP.NET  
-- **R**: Tidyverse  
-
-**Cloud Platforms & Frameworks**
-- **Google Cloud**: Cloud Storage, Cloud Run, Functions, Scheduler, EventArc, IAM, Apps Script  
-- **Azure**: Blob Storage, CosmosDB, App Service, Functions  
-
-**Data Visualization & Tools**
-- Streamlit, Tableau, Databricks, ggplot2, matplotlib, seaborn, plotly  
-
-**Other Technical Skills**
-- SQL, Git (GitHub, Azure DevOps), Docker, CRON Jobs, Quarto, LaTeX  
-- MVVM, Event-Driven Architecture, Single-Page Applications (SPA)  
+- Data Science Society project manager
+- Runner-up, 2024 hackathon
 
 ---
 
-# Did you know?
-
-### Sebastian Dunn moved between countries 5 times?
-![](newplot.png)
-
-<details>
-<summary>More Detail?</summary>
-
-Singen, Germany → Connecticut, USA after 1.5 months
-
-Connecticut, USA → Ascot, United Kingdom after 7.5 years
-
-Ascot, United Kingdom → Dorridge, United Kingdom after 2.5 years
-
-Dorridge, United Kingdom → Berlin, Germany after 1 year
-
-Berlin, Germany → Idaho, USA after 6 years
-</details>
-
-### Sebastian can work in both the EU & the USA without any Visa assistance?
-(he has dual citizenship in Germany & the USA plus he can speak both German & English)
-
-### Sebastian won second place at his school's Hackathon
-(they say second place is the first something... i don't remember what)
-
-
-*readme inspo goes to [aj averett](https://github.com/ajaverett/ajaverett)
+<a href="https://github.com/axolmain"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axolmain&theme=default" alt="GitHub stats" height="180" /></a> <a href="https://github.com/axolmain"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=axolmain&theme=default" alt="Most used languages" height="180" /></a>
